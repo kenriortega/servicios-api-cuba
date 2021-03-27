@@ -7,11 +7,11 @@ Este repositorio recoge diferentes endpoints relacionados con los servicios info
 
 >  *RedCuba* ofrece servicio REST-API para conocer el clima en el país.
 
-Endpoint [https://www.redcuba.cu/api/weather_get_summary/Habana](https://www.redcuba.cu/api/weather_get_summary/Habana)
+- Endpoint [https://www.redcuba.cu/api/weather_get_summary/Habana](https://www.redcuba.cu/api/weather_get_summary/Habana)
 
 
 > *APKLIS* ofrece servicio REST-API para conocer el estado de las aplicaciones móviles en cuba
 
-Endpoint [https://api.apklis.cu/v2/application/](https://api.apklis.cu/v2/application/) ofrece un listado de las aplicaciones registradas en la plataforma
+- Endpoint [https://api.apklis.cu/v2/application/](https://api.apklis.cu/v2/application/) ofrece un listado de las aplicaciones registradas en la plataforma
 
-Endpoint [https://api.apklis.cu/v2/review/?application=com.cubanopensource.todo](https://api.apklis.cu/v2/review/?application=com.cubanopensource.todo) ofrece la descripcion dado el nombre de una aplicación
+- Endpoint [https://api.apklis.cu/v2/review/?application=com.cubanopensource.todo](https://api.apklis.cu/v2/review/?application=com.cubanopensource.todo) ofrece la descripcion dado el nombre de una aplicación
