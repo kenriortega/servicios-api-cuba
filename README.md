@@ -15,3 +15,7 @@ Este repositorio recoge diferentes endpoints relacionados con los servicios info
 - Endpoint [https://api.apklis.cu/v2/application/](https://api.apklis.cu/v2/application/) ofrece un listado de las aplicaciones registradas en la plataforma
 
 - Endpoint [https://api.apklis.cu/v2/review/?application=com.cubanopensource.todo](https://api.apklis.cu/v2/review/?application=com.cubanopensource.todo) ofrece la descripcion dado el nombre de una aplicación
+
+> *Covid19 cuba*
+
+- Endpoint [https://covid19cuba.github.io/covid19cubadata.github.io/api/v2/full.json](https://covid19cuba.github.io/covid19cubadata.github.io/api/v2/full.json) resumen covid en cuba
