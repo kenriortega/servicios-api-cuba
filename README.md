@@ -27,6 +27,9 @@ Este repositorio recoge diferentes endpoints relacionados con los servicios info
 - Endpoint [http://eprog2.tvcdigital.cu/programacion/{channel-id}/{date}](http://eprog2.tvcdigital.cu/programacion/$%7Bchannel.id%7D/$date) Detalle de la programacion de un canal y fecha determinados por parametros en el querystring
 
 > *cubava*
-Endpoint https://www.{nombre-del-sitio}.cubava.cu/wp-json/wp/v2/pages representa un listado de formato json con todas las paginas del sitio y sus datos asociados
-Endpoint https://www.{nombre-del-sitio}.cubava.cu/wp-json/wp/v2/posts representa un listado de formato json con todas las entradas o publicaciones del sitio y sus datos asociados
-Endpoint https://www.{nombre-del-sitio}.cubava.cu/wp-json/wp/v2/comments representa un listado de formato json con todos los comentarios del sitio y sus datos asociados
+
+- Endpoint https://www.{nombre-del-sitio}.cubava.cu/wp-json/wp/v2/pages representa un listado de formato json con todas las paginas del sitio y sus datos asociados
+
+- Endpoint https://www.{nombre-del-sitio}.cubava.cu/wp-json/wp/v2/posts representa un listado de formato json con todas las entradas o publicaciones del sitio y sus datos asociados
+
+- Endpoint https://www.{nombre-del-sitio}.cubava.cu/wp-json/wp/v2/comments representa un listado de formato json con todos los comentarios del sitio y sus datos asociados
